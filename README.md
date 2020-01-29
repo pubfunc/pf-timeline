@@ -1,2 +1,2 @@
-# Angular Google Maps
+# Angular Timeline Component
 
